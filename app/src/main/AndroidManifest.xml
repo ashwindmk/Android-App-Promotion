@@ -64,18 +64,18 @@
         <!--PRODUCTION-->
         <!--<meta-data
             android:name="CLEVERTAP_ACCOUNT_ID"
-            android:value="RK8-8R9-K74Z"/>;
+            android:value="your clevertap account id"/>;
         <meta-data
             android:name="CLEVERTAP_TOKEN"
-            android:value="c2b-b32"/>-->
+            android:value="your clevertap token"/>-->
 
         <!--TESTING-->
         <meta-data
             android:name="CLEVERTAP_ACCOUNT_ID"
-            android:value="TEST-KK8-8R9-K74Z"/>;
+            android:value="TEST-your clevertap account id"/>;
         <meta-data
             android:name="CLEVERTAP_TOKEN"
-            android:value="TEST-c2b-b33"/>
+            android:value="TEST-your clevertap token"/>
 
     </application>
 
